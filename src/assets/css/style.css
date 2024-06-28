@@ -1,0 +1,27 @@
+#main_title {
+    text-align: center;
+    background-color: #a8a4a4;
+    padding: 20px;
+}
+
+.box1 h3 {
+    float: left;
+}
+
+.box1 button {
+    float: right;
+}
+
+.box1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box1 h3 {
+    margin: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
